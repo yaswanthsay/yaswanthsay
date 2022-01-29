@@ -1,5 +1,5 @@
 <h4 align="left">Hi 👋, I'm Yaswanth krishna</h4>
-<h5 align="center">Web developer</h5>
+<h5 align="left">Web developer</h5>
 
 - 🌱 I’m currently creating project using **React JS**
 - 
