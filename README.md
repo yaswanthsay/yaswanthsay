@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Yaswanth krishna</h3>
-<h4 align="center">Web developer</h4>
+<h4 align="center">Hi 👋, I'm Yaswanth krishna</h4>
+<h5 align="center">Web developer</h5>
 
 - 🌱 I’m currently creating project using **React JS**
 - 
