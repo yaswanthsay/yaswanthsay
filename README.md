@@ -2,7 +2,6 @@
 <h5 align="left">Web developer</h5>
 
 - 🌱 I’m currently creating project using **React JS**
-- 
 - 📫 How to reach me **yaswanthkrishna34@gmail.com**
 
 <p align="left">
