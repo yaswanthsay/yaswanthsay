@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me yaswanthkrishna34@gmail.com
 
-##Languages and Tools :
+## Languages and Tools :
 
 - ☸  ReactJS
 - 💻 HTML,CSS,JS
