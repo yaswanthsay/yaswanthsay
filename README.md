@@ -1,7 +1,7 @@
 <h4 align="left">Hi 👋, I'm Yaswanth krishna</h4>
 <h5 align="left">Web developer</h5>
 
-- 🌱 I’m currently creating project using **React JS**
+- 🌱 I’m currently working as an Associate software developer
 - 📫 How to reach me **yaswanthkrishna34@gmail.com**
 
 <p align="left">
